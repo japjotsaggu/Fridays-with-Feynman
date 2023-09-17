@@ -11,7 +11,7 @@ import ipywidgets as widgets
 
 def get_api_key():
 	api_key = input("Enter your API key: ")
-    return api_key
+    	return api_key
 
 def pdf_loader(file):
 	loader = PyPDFLoader(file)
