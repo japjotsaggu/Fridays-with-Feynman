@@ -3,7 +3,7 @@ Fridays with Feynman is a chatbot designed to embody one of the greatest physici
 
 <img width="500" alt="Screenshot 2023-09-19 at 1 37 35 AM" src="https://github.com/japjotsaggu/Fridays-with-Feynman/assets/119132799/a4325a46-faa9-4443-95c5-73f1d01c588b">
 
-To know more about the process, intricacies and the architecture, read the documentation here. (Yet to add link)
+To know more about the process, intricacies and the architecture, [Explore Documentation](https://docs.google.com/document/d/1tFTT8uNVhcbR0BIp_vJ-TOg9eNTu4BQSUNjDgE2aWyk/edit?usp=sharing)
 
 ## Methods and Pipeline 
 
