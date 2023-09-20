@@ -1,9 +1,10 @@
 # Fridays with Feynman
 Fridays with Feynman is a chatbot designed to embody one of the greatest physicists of all time, Richard Phillips Feynman. It can answer questions on physics, science, Feynman’s life and experiences with depth and personality. The bot leverages the langchain library to utilize a Large Language Model (LLM) to answer user queries based on Feynman’s lectures, books and interviews. It tries to recreate his extraordinary ability to explain concepts in a simplified and engaging manner. 
 
+To know more about the process, intricacies and the architecture, [Explore Documentation](https://docs.google.com/document/d/1tFTT8uNVhcbR0BIp_vJ-TOg9eNTu4BQSUNjDgE2aWyk/edit?usp=sharing)
+
 <img width="500" alt="Screenshot 2023-09-19 at 1 37 35 AM" src="https://github.com/japjotsaggu/Fridays-with-Feynman/assets/119132799/a4325a46-faa9-4443-95c5-73f1d01c588b">
 
-To know more about the process, intricacies and the architecture, [Explore Documentation](https://docs.google.com/document/d/1tFTT8uNVhcbR0BIp_vJ-TOg9eNTu4BQSUNjDgE2aWyk/edit?usp=sharing)
 
 ## Methods and Pipeline 
 
