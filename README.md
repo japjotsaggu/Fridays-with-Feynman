@@ -17,7 +17,7 @@ The bot is written in a Colaboratory notebook that can be accessed through the r
 
 - Change the hardware accelerator to T4 GPU.
 
-![Picture 1](https://github.com/japjotsaggu/Fridays-with-Feynman/assets/119132799/1f552bf6-803d-4af6-9570-af13d11b9e11)
+![pic3](https://github.com/japjotsaggu/Fridays-with-Feynman/assets/119132799/d6453f0b-4c6d-490f-8b1c-ba6838c62aa2)
 
 - Upload 'chunks.pkl' to session storage.
 
